@@ -19,6 +19,11 @@ public class PracticaProyecto {
         
         System.out.println("Hola mi nombre es " + x + " y tengo " + abc + " anios");
         
+        
+        String Daniel = "Daniel si es", Cruz = "Cruz si es", Junnior = "Junnior es putisimo";
+        
+        System.out.println("Nombres de putos: " + Daniel + " " + Cruz + " " + Junnior);
+       
     }
     
 }
