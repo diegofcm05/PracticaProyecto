@@ -25,6 +25,7 @@ public class PracticaProyecto {
         System.out.println("Nombres de putos: " + Daniel + " " + Cruz + " " + Junnior);
        
         System.out.println("Culo si se arruina");
+        String adios = "adios proyecto";
     }
     
 }
