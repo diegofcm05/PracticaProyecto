@@ -16,7 +16,8 @@ public class PracticaProyecto {
     public static void main(String[] args) {
         String x = "Diego";
         int abc = 14;
-        
+        System.out.println("Puto el que lo lea");
+        System.out.println("Esta vez si en serio");
         System.out.println("Hola mi nombre es " + x + " y tengo " + abc + " anios");
         
     }
